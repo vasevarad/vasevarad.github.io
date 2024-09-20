@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Vasudha
 
 # Name pronunciation (optional)
-name_pronunciation: Vuh-su-dhaa
+#name_pronunciation: Vuh-su-dhaa
 
 # Full name (for SEO)
 first_name: Vasudha
@@ -11,7 +11,7 @@ last_name: Varadarajan
 
 # Status emoji
 status:
-  icon: ☕
+  icon: 🧚
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,17 +47,19 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Computational Social Science 
+  #Artificial Intelligence
+  #- Computational Linguistics
+  #- Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computer Science
+    institution: Stony Brook
+    date_start: 2020-01-17
+    date_end: 2025-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof H. Andrew Schwartz](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -183,4 +185,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Vasudha Varadarajan, a fourth year PhD student working in the areas of natural language processing and the relationships between cognition and language, especially in the context of social media. I work with Prof. H. Andrew Schwartz in the State University of New York at Stony Brook. I am interested in applying NLP/data science techniques to problems in computational social science to study social/psychological phenomena through language use at scale, active learning, and improving conversational AI for psychometric surveys. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings.
+
+I am always looking for opportunities (currently internships) to work with teams with similar interests-- preferably with a research component. Other than that, I have been trying to improve my science communication skills, and I love facilitating discussions and teaching!
