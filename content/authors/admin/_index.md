@@ -59,7 +59,7 @@ education:
     date_start: 2020-01-17
     date_end: 2025-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof H. Andrew Schwartz](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -174,10 +174,10 @@ awards:
     icon: 
     summary: |
       I was selected as the DARPA Riser for my work "Detecting Dissonant Stance in Social Media: The Role of Topic Exposure"
-  - title: ACL
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+  - title: Outstanding Paper Award at ACL 2023
+    url: https://2023.aclweb.org/program/best_papers/
+    date: '2023-07-10'
+    awarder: Association of Computational Linguistics
     icon: edx
     summary: |
       Learned:
