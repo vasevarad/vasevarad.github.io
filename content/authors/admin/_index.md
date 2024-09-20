@@ -196,7 +196,7 @@ awards:
 
 ## I am on the academic job market for faculty and post-doc positions!
 
-(Disclaimer: This new website is still under construction, please check back in about two weeks patient while I update all the information!)
+(Disclaimer: This new website is still under construction, please check back in about two weeks while I update all the information, thank you for your patience!)
 
 I am Vasudha Varadarajan, a fourth year PhD student working in the areas of natural language processing and the relationships between cognition and language, especially in the context of social media. I work with Prof. H. Andrew Schwartz in the State University of New York at Stony Brook. I am interested in applying NLP/data science techniques to problems in computational social science to study social/psychological phenomena through language use at scale, active learning, and improving conversational AI for psychometric surveys. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings.
 
