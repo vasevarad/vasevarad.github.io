@@ -194,7 +194,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## I am on the academic job market for tenure-track and post-doc positions!
+## I am on the academic job market for faculty and post-doc positions!
 
 I am Vasudha Varadarajan, a fourth year PhD student working in the areas of natural language processing and the relationships between cognition and language, especially in the context of social media. I work with Prof. H. Andrew Schwartz in the State University of New York at Stony Brook. I am interested in applying NLP/data science techniques to problems in computational social science to study social/psychological phenomena through language use at scale, active learning, and improving conversational AI for psychometric surveys. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings.
 
