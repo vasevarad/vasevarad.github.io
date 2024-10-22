@@ -1,7 +1,7 @@
 ---
 title: 'Detecting dissonant stance in social media: The role of topic exposure'
 authors:
-- Vasudha Varadarajan
+- '**Vasudha Varadarajan**'
 - Nikita Soni
 - Weixi Wang
 - Christian Luhmann
