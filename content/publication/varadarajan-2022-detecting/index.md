@@ -13,4 +13,6 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the Fifth Workshop on Natural Language Processing and
   Computational Social Science (NLP+ CSS)*'
+url_pdf: https://aclanthology.org/2022.nlpcss-1.16.pdf
+
 ---
