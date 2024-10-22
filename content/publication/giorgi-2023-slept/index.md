@@ -13,4 +13,5 @@ publishDate: '2024-09-20T05:49:28.744300Z'
 publication_types:
 - paper-conference
 publication: '*IACT@ SIGIR*'
+url_pdf: https://sjgiorgi.github.io/publications/giorgi2023islept.pdf
 ---
