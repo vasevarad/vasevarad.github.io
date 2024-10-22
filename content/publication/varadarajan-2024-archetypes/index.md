@@ -27,4 +27,8 @@ url_video: https://aclanthology.org/2024.clpsych-1.28.mp4
 tags:
 - reddit, suicidality, clpsych, entropy, archetypes, llms
 
+abstract: Research on psychological risk factors for suicide has developed for decades. However, combining explainable theory with modern data-driven language model approaches is non-trivial. In this study, we propose and evaluate methods for identifying language patterns aligned with theories of suicide risk by combining theory-driven suicidal archetypes with language model-based and relative entropy-based approaches. Archetypes are based on prototypical statements that evince risk of suicidality while relative entropy considers the ratio of how unusual both a risk-familiar and unfamiliar model find the statements. While both approaches independently performed similarly, we find that combining the two significantly improved the performance in the shared task evaluations, yielding our combined system submission with a BERTScore Recall of 0.906. Consistent with the literature, we find that titles are highly informative as suicide risk evidence, despite the brevity. We conclude that a combination of theory- and data-driven methods are needed in the mental health space and can outperform more modern prompt-based methods.
+
+summary: We combined theory-driven suicidal archetypes with language models and relative entropy to identify suicide risk in text. The combined approach outperformed individual methods, achieving high accuracy in shared task evaluations. Our findings suggest that integrating theoretical and data-driven methods is crucial for mental health analysis, outperforming prompt-based approaches.
+
 ---
