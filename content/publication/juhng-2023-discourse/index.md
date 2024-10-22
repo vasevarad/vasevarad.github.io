@@ -3,7 +3,7 @@ title: Discourse-level representations can improve prediction of degree of anxie
 authors:
 - Swanie Juhng
 - Matthew Matero
-- *Vasudha Varadarajan*
+- Vasudha Varadarajan
 - Johannes Eichstaedt
 - Adithya V Ganesan
 - H Andrew Schwartz
