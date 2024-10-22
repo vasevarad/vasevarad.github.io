@@ -24,4 +24,7 @@ url_pdf: https://aclanthology.org/2024.clpsych-1.28v2.pdf
 url_code: https://github.com/humanlab/clp24-arch-entropy
 url_video: https://aclanthology.org/2024.clpsych-1.28.mp4
 
+tags:
+- reddit, suicidality, clpsych, entropy, archetypes, llms
+
 ---
