@@ -12,6 +12,10 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-09-20T05:49:28.732098Z'
 
+url_pdf: https://aclanthology.org/2023.acl-long.665/
+url_code: https://github.com/humanlab/rare-class-AL
+url_dataset: https://github.com/humanlab/dissonance-twitter-dataset
+url_video: https://aclanthology.org/2023.acl-long.665.mp4
 
 publication_types: ["article"]
 # Publication name and optional abbreviated publication name.
