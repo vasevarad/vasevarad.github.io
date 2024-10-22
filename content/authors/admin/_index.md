@@ -81,7 +81,7 @@ work:
   - position: Research Assistant
     company_name: Stony Brook University
     date_start: 2021-01-01
-    date_end: 'present'
+    date_end: 2025-05-01
   - position: Senior Analyst
     company_name: Deutsche Bank Operations International (DBOI)
     company_url: ''
@@ -161,6 +161,7 @@ awards:
     icon:
     summary: |
       Our work "Transfer and Active Learning for Dissonance Detection: Addressing the Rare-class Challenge" was selected as an Outstanding paper at the ACL 2023 held in Toronto.
+    
   - title: 'INSPIRE Scholarship for Higher Education'
     url: https://www.online-inspire.gov.in/
     date: '2013-07-21'
