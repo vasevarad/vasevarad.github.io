@@ -1,7 +1,7 @@
 ---
 title: 'ALBA: Adaptive Language-Based Assessments for Mental Health'
 authors:
-- '**Vasudha Varadarajan**'
+- <b>Vasudha Varadarajan</b>
 - Sverker Sikström
 - Oscar Kjell
 - H Schwartz
