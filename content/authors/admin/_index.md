@@ -59,7 +59,7 @@ education:
     date_start: 2020-01-17
     date_end: 2025-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Modeling Individual Cognitive Patterns and Mental Health from Language_. Supervised by [Prof H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -69,22 +69,14 @@ education:
     date_end: 2018-05-01
     summary: |
       GPA: 8.6/10
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
   - area: BE (Hons.) Computer Science
     institution: Birla Institute of Technology and Science (BITS) Pilani
     date_start: 2013-08-01
     date_end: 2018-05-01
     summary: |
       GPA: 8.6/10
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Senior Analyst
     company_name: Deutsche Bank Operations International (DBOI)
