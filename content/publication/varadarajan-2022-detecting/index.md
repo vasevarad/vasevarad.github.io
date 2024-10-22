@@ -17,7 +17,7 @@ url_pdf: https://aclanthology.org/2022.nlpcss-1.16.pdf
 
 featured: true
 image:
-- caption: 'Formulating dissonant stance by focusing on utterances rather than topic.'
+  caption: 'Formulating dissonant stance by focusing on utterances rather than topic.'
 tags: 
 - dissonant stance, topic-independent, roberta
 
