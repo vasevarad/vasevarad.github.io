@@ -35,10 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
+        I am a Ph.D. candidate working on modeling cognitive styles expressed through personal discourse using large language models. I am broadly interested in using NLP and data science to study social/psychological phenomena through language use, annotations and active learning, and improving conversational AI, especially for mental health. Other than that, I have been trying to improve my science communication skills, and I love facilitating discussions and teaching!
+I am always looking for opportunities to work with teams with similar interests.        
         Please reach out to collaborate 😃
     design:
       columns: '1'
