@@ -18,4 +18,7 @@ publication_types:
 publication: '*Proceedings of the 2024 Conference of the North American Chapter of
   the Association for Computational Linguistics: Human Language Technologies (Volume
   5: Tutorial Abstracts)*'
+
+url_pdf: https://aclanthology.org/2024.naacl-tutorials.4.pdf
+
 ---
