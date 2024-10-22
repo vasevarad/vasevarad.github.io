@@ -17,4 +17,7 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the Eighth Workshop on Computational Linguistics and
   Clinical Psychology*'
+
+url_pdf: https://aclanthology.org/2022.clpsych-1.25.pdf
+
 ---
