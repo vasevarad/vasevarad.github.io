@@ -71,9 +71,9 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+    id: Volunteering
     content:
-      title: Recent News
+      title: Volunteering Experience
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
