@@ -23,5 +23,5 @@ to 10 months before their actual entry with an AUC of ą 0.6, steadily increasin
 summary: A novel framework using "The Extremist Eleven" factors successfully analyzes and predicts extremist behavior across different online communities by examining verbal behavioral signatures. The method demonstrates high predictive accuracy, identifying potential extremists up to 10 months before they join extremist communities, while showing that users maintain consistent extremist traits after joining these forums.
 
 tags:
-- language of extremism, radicalization, social media, generalized extremist score
+- language of extremism, radicalization, social media, generalized framework
 ---
