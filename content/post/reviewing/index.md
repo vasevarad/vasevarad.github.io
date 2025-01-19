@@ -1,16 +1,11 @@
 ---
 title: Reviewing for *CL conferences.
 summary: Reviewed for ACL-RR over the since 2022.
-date: 2025-01-20
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+date: 2025-01-01
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-
 authors:
   - admin
-
 tags:
   - reviewing
   - research
