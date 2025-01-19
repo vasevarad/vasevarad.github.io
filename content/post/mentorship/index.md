@@ -1,6 +1,6 @@
 ---
 title: Research Mentorship
-summary: Mentorship of junior students has led to some papers under review at venues like ACL.
+summary: 'Mentorship of junior students has led to some papers under review at *CL venues.'
 date: 2025-01-01
 authors:
   - admin
