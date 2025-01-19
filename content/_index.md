@@ -71,9 +71,9 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: volunteering
+    id: mentoring
     content:
-      title: Volunteering Experience
+      title: Teaching and Mentoring
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
