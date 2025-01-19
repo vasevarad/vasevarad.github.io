@@ -164,7 +164,7 @@ awards:
  - title: DARPA Riser
    url: https://forward.darpa.mil/Risers
    date: '2022-09-01'
-   awarder: DARPA
+   awarder: Defense Research Advanced Projects Agency (DARPA)
    icon: 
    summary: |
       I was selected as the DARPA Riser for my work "Detecting Dissonant Stance in Social Media: The Role of Topic Exposure"
