@@ -59,7 +59,7 @@ education:
     date_start: 2020-01-17
     date_end: 2025-05-31
     summary: |
-      Thesis on _Modeling Individual Cognitive Patterns and Mental Health from Language_. Supervised by [Prof H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/). 
+      Thesis on _Modeling Individual Cognitive Patterns and Mental Health from Language_. Supervised by Prof H. Andrew Schwartz. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
