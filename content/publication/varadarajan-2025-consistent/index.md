@@ -14,5 +14,4 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the Workshop on Detecting AI Generated Content at COLING
   2025*'
-url_pdf: https://sjgiorgi.github.io/publications/varadarajan2025consistent.pdf
 ---
