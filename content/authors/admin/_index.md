@@ -82,6 +82,14 @@ work:
     company_name: Stony Brook University
     date_start: 2021-01-01
     date_end: 2025-05-01
+  - position: Data and Applied Science Intern
+    company_name: Microsoft
+    date_start: 2022-05-20
+    date_end: 2022-08-31
+  - position: Research Intern
+    company_name: AT&T Labs
+    date_start: 2021-05-20
+    date_end: 2021-08-08
   - position: Senior Analyst
     company_name: Deutsche Bank Operations International (DBOI)
     company_url: ''
