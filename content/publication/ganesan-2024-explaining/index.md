@@ -17,4 +17,5 @@ publishDate: '2025-01-19T16:33:43.532145Z'
 publication_types:
 - article-journal
 publication: '*Under Review at Nature Mental Health*'
+url_pdf: https://arxiv.org/pdf/2411.13800
 ---
