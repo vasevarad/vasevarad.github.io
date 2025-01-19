@@ -2,8 +2,8 @@
 title: 'Unifying the Extremes: Developing a Unified Model for Detecting and Predicting
   Extremist Traits and Radicalization'
 authors:
-- Allison Lahnala*
-- Vasudha Varadarajan*
+- Allison Lahnala★
+- Vasudha Varadarajan★
 - Lucie Flek
 - H Andrew Schwartz
 - Ryan L Boyd
@@ -13,4 +13,6 @@ publication_types:
 - article-journal
 publication: '*To Appear in Proceedings of the International AAAI Conference on Web
   and Social Media*'
+url_pdf: https://arxiv.org/pdf/2501.04820
+  
 ---
