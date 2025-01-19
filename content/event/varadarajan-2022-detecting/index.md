@@ -1,5 +1,5 @@
 ---
-title: 'Detecting dissonant stance in social media: The role of topic exposure'
+title: 'Talk @ DARPA Forward, Fort Collins 2022 on detecting dissonance on social media'
 
 date: '2022-08-28'
 publishDate: '2024-09-20T05:49:28.719389Z'
