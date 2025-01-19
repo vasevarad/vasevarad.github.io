@@ -183,7 +183,7 @@ awards:
    summary: |
       Awarded travel to Inria, France in 2018 for undergraduate thesis.
  - title: 'National Talent Search Examination (NTSE) Scholarship'
-   url: [https://ncert.nic.in/national-talent-examination.php](https://ncert.nic.in/national-talent-examination.php)
+   url: https://ncert.nic.in/national-talent-examination.php
    awarder: National Council of Educational Research and Training (NCERT)
    icon: 
    summary: |
