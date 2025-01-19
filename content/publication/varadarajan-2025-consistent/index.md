@@ -14,5 +14,9 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the Workshop on Detecting AI Generated Content at COLING
   2025*'
+featured: true
 url_pdf: https://sjgiorgi.github.io/publications/varadarajan2025consistent.pdf
+
+tags:
+- ai-generated, human-generated, content authorship, homogeneity of LLM text
 ---
