@@ -148,33 +148,32 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
  - title: Outstanding Paper Award at Detecting AI-Generated Content Workshop @ COLING 2025
-    url: https://genai-content-detection.gitlab.io/program
-    date: '2025-01-19'
-    awarder: International Conference for Computational Linguistics
-    icon:
-    summary: |
-      Our work "Consistent Lack of Variance in Psychological Factors Expressed by Spambots and LLMs" was selected as an Outstanding paper at the GenAIContent workshop at COLING 2025 held in Abu Dhabi.
-  - title: Outstanding Paper Award at ACL 2023
-    url: https://2023.aclweb.org/program/best_papers/
-    date: '2023-07-10'
-    awarder: Association of Computational Linguistics
-    icon:
-    summary: |
+   url: https://genai-content-detection.gitlab.io/program
+   date: '2025-01-19'
+   awarder: International Conference for Computational Linguistics
+   icon:
+   summary: |
+      Our work "Consistent Lack of Variance in Psychological Factors Expressed by Spambots and LLMs" was selected as an Outstanding Paper at the GenAIContent workshop at COLING 2025 held in Abu Dhabi.
+ - title: Outstanding Paper Award at ACL 2023
+   url: https://2023.aclweb.org/program/best_papers/
+   date: '2023-07-10'
+   awarder: Association of Computational Linguistics
+   icon:
+   summary: |
       Our work "Transfer and Active Learning for Dissonance Detection: Addressing the Rare-class Challenge" was selected as an Outstanding paper at the ACL 2023 held in Toronto.
-  - title: DARPA Riser
-    url: https://forward.darpa.mil/Risers
-    date: '2022-09-01'
-    awarder: DARPA
-    icon: 
-    summary: |
+ - title: DARPA Riser
+   url: https://forward.darpa.mil/Risers
+   date: '2022-09-01'
+   awarder: DARPA
+   icon: 
+   summary: |
       I was selected as the DARPA Riser for my work "Detecting Dissonant Stance in Social Media: The Role of Topic Exposure"
-
-  - title: 'INSPIRE Scholarship for Higher Education'
-    url: https://www.online-inspire.gov.in/
-    date: '2013-07-21'
-    awarder: Department of Science and Technology, Government of India
-    icon: 
-    summary: |
+ - title: 'INSPIRE Scholarship for Higher Education'
+   url: https://www.online-inspire.gov.in/
+   date: '2013-07-21'
+   awarder: Department of Science and Technology, Government of India
+   icon: 
+   summary: |
       Selected by the Government of India for a tuition scholarship for all the years of undergraduate studies based on merit.
       
 ---
