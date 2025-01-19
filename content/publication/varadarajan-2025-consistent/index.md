@@ -2,8 +2,8 @@
 title: The Consistent Lack of Variance of Psychological Factors Expressed by LLMs
   and Spambots
 authors:
-- Vasudha Varadarajan
-- Salvatore Giorgi
+- Vasudha Varadarajan*
+- Salvatore Giorgi*
 - Siddharth Mangalik
 - Nikita Soni
 - David M Markowitz
