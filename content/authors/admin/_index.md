@@ -168,6 +168,13 @@ awards:
    icon: 
    summary: |
       I was selected as the DARPA Riser for my work "Detecting Dissonant Stance in Social Media: The Role of Topic Exposure"
+  - title: 'BITS IPCD Travel Grant'
+   url: https://www.bits-pilani.ac.in/ipcd-overview/
+   date: '2018-05-20'
+   awarder: Birla Institute of Technology and Science Pilani (BITS-Pilani)
+   icon: 
+   summary: |
+      Awarded travel to Inria Sophia Antipolis, France in 2018 for undergraduate thesis.
  - title: 'INSPIRE Scholarship for Higher Education'
    url: https://www.online-inspire.gov.in/
    date: '2013-07-21'
@@ -175,13 +182,6 @@ awards:
    icon: 
    summary: |
       Selected by the Government of India for a tuition scholarship for all the years of undergraduate studies based on merit.
- - title: 'BITS IPCD Travel Grant'
-   url: https://www.online-inspire.gov.in/
-   date: '2018-05-20'
-   awarder: Birla Institute of Technology and Science Pilani (BITS-Pilani)
-   icon: 
-   summary: |
-      Awarded travel to Inria, France in 2018 for undergraduate thesis.
  - title: 'National Talent Search Examination (NTSE) Scholarship'
    url: https://ncert.nic.in/national-talent-examination.php
    awarder: National Council of Educational Research and Training (NCERT)
