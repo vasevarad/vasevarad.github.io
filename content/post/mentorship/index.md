@@ -1,6 +1,6 @@
 ---
-title: Mentorship of undergraduate and junior graduate students.
-summary: Research mentorship of junior students has led to some papers under review at prestigious venues like ACL.
+title: Research Mentorship.
+summary: Mentorship of junior students has led to some papers under review at prestigious venues like ACL.
 authors:
   - admin
 tags:
