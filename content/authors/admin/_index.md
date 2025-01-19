@@ -82,6 +82,10 @@ work:
     company_name: Stony Brook University
     date_start: 2021-01-01
     date_end: 2025-05-01
+  - position: Visiting Researcher
+    company_name: Lund University
+    date_start: 2022-09-01
+    date_end: 2022-12-01
   - position: Data and Applied Science Intern
     company_name: Microsoft
     date_start: 2022-05-20
