@@ -168,7 +168,7 @@ awards:
    icon: 
    summary: |
       I was selected as the DARPA Riser for my work "Detecting Dissonant Stance in Social Media: The Role of Topic Exposure"
-  - title: 'BITS IPCD Travel Grant'
+ - title: 'BITS IPCD Travel Grant'
    url: https://www.bits-pilani.ac.in/ipcd-overview/
    date: '2018-05-20'
    awarder: Birla Institute of Technology and Science Pilani (BITS-Pilani)
