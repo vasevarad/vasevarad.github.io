@@ -2,19 +2,10 @@
 bold:
 - Vasudha Varadarajan
 title: 'ALBA: Adaptive Language-Based Assessments for Mental Health'
-authors:
-- Vasudha Varadarajan
-- Sverker Sikström
-- Oscar Kjell
-- H Schwartz
-date: '2024-01-01'
-publishDate: '2024-09-20T05:49:28.774852Z'
-publication_types:
-- paper-conference
-publication: '*Proceedings of the 2024 Conference of the North American Chapter of
-  the Association for Computational Linguistics: Human Language Technologies (Volume
-  1: Long Papers)*'
-
+date: '2024-07-18'
+publishDate: '2024-07-18T05:49:28.774852Z'
+event_url: https://turing-ds4mh.github.io/meetings.html
+event: Data Science for Mental Health (DS4MH) @ The Alan Turing Institute
 url_pdf: https://aclanthology.org/2024.naacl-long.136.pdf
 url_code: https://github.com/humanlab/alba-irt
 
