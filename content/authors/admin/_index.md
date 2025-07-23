@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Stony Brook University
-    url: https://www.stonybrook.edu
+  - name: CMU LTI
+    url: https://www.lti.cs.cmu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -204,9 +204,8 @@ awards:
 
 ---
 
-## I am on the academic job market for faculty and post-doc positions!
 
 
-I am Vasudha Varadarajan, a fifth year PhD student working in the areas of natural language processing and the relationships between cognition and language, especially in the context of social media. I work with Prof. H. Andrew Schwartz in the State University of New York at Stony Brook. I am interested in applying NLP/data science techniques to problems in computational social science to study social/psychological phenomena through language use at scale, active learning, and improving conversational AI for psychometric surveys. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings.
+I am Vasudha Varadarajan, a postdoc at CMU LTI (since August 2025) working in the areas of NLP: understanding and modeling the human cognition as it manifests in conversations between humans as well as with LLMs. I am interested in applying NLP techniques to problems in computational social science to study socio-psychological phenomena through language use at scale, active learning, and improving conversational AI for psychometric surveys. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings. I did my PhD under the mentorship of [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/) in the State University of New York at Stony Brook.  I am fortunate to be mentored by [Maarten Sap](https://maartensap.com/) and [Mona Diab](https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html) at LTI.
 
-I am always looking for opportunities to work with teams with similar interests-- preferably with a research component. Other than that, I have been trying to improve my science communication skills, and I love facilitating discussions and teaching!
+I am always looking for opportunities to work with teams with similar interests. Other than that, I love facilitating discussions and teaching!
