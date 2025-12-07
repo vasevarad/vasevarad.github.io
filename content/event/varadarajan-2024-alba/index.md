@@ -1,7 +1,7 @@
 ---
 bold:
 - Vasudha Varadarajan
-title: 'Talk @ Data Science for Mental Health (DS4MH) @ The Alan Turing Institute on Adaptive Language-Based Assessments'
+title: 'Invited Talk @ The Alan Turing Institute on Adaptive Language-Based Assessments'
 date: '2024-07-18'
 publishDate: '2024-07-18T05:49:28.774852Z'
 event_url: https://turing-ds4mh.github.io/meetings.html
