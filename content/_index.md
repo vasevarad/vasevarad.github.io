@@ -99,5 +99,17 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
- 
+
+   - block: collection
+      id: press
+      content:
+        title: Media
+        subtitle: ''
+        text: ''
+        filters:
+          folders: 
+            - media
+     design:
+      view: article-grid
+      columns: 1
 ---
