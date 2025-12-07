@@ -10,6 +10,9 @@ authors:
 - Ryan L Boyd
 - H Andrew Schwartz
 date: '2025-07-12'
+tags:
+- discourse, cognitive styles, dissonance, decision making
+featured: True
 publishDate: '2025-12-07T21:10:24.945779Z'
 publication_types:
 - paper-conference
