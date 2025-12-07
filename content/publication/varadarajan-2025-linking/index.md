@@ -11,6 +11,7 @@ authors:
 - Roman Kotov
 - H Andrew Schwartz
 date: '2025-01-01'
+featured: True
 publishDate: '2025-12-07T21:10:24.952211Z'
 url_pdf: '[https://aclanthology.org/2025.clpsych-1.5.pdf](https://aclanthology.org/2025.clpsych-1.5.pdf)'
 publication_types:
