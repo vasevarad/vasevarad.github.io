@@ -1,5 +1,5 @@
 ---
-title: 'Upcoming Talk @ CRA Grad Cohort, Denver 2025 on Capturing Human Cognitive Styles with Language -- Towards an Experimental Evaluation Paradigm.'
+title: 'Talk @ CRA Grad Cohort, Denver 2025 on Capturing Human Cognitive Styles with Language'
 
 date: '2025-04-04'
 publishDate: '2024-04-04T05:49:28.719389Z'
