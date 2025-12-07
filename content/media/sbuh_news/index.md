@@ -1,5 +1,5 @@
 ---
-title: 'Stony Brook Medicine News covers our Study on Distinguishing between Human and AI-Generated Content'
+title: 'Stony Brook Medicine covers our Study on Distinguishing between Human and AI-Generated Content'
 
 date: '2024-05-23'
 publishDate: '2024-04-04T05:49:28.719389Z'
