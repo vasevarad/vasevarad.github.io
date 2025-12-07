@@ -28,3 +28,7 @@ tags:
 - EMNLP 2023
 - ARR December 2022
 - ARR March 2022
+
+### Area Chair Assigments
+
+- LREC 2026
