@@ -11,7 +11,7 @@ last_name: Varadarajan
 
 # Status emoji
 status:
-  icon: 🧚
+  icon: 🧚🏽‍♀️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc
+role: Postdoc Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -59,7 +59,7 @@ education:
     date_start: 2020-01-17
     date_end: 2025-05-31
     summary: |
-      Thesis on _Modeling Individual Cognitive Patterns and Mental Health from Language_. Supervised by Prof H. Andrew Schwartz. 
+      Thesis on _Towards Truer Scores of Mental States: Computational Linguistics for Psychological Measurement_. Supervised by Prof H. Andrew Schwartz. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -205,7 +205,6 @@ awards:
 ---
 
 
-
-I am Vasudha Varadarajan, a postdoc at CMU LTI (since August 2025) working in the areas of NLP: understanding and modeling the human cognition as it manifests in conversations between humans as well as with LLMs. I am interested in applying NLP techniques to problems in computational social science to study socio-psychological phenomena through language use at scale, active learning, and improving conversational AI for psychometric surveys. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings. I did my PhD under the mentorship of [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/) in the State University of New York at Stony Brook.  I am fortunate to be mentored by [Maarten Sap](https://maartensap.com/) and [Mona Diab](https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html) at LTI.
+I am Vasudha Varadarajan, a postdoc researcher at CMU's Language Technologies Institute working on understanding how social cognition surfaces in large language models, its impact on conversations and cultural sensitivity , and the safety risks associated with it, especially in downstream applications such as mental health. I am also interested in using insights from NLP and data science techniques (what we call "neo-GOFAI" - modern applications of good old-fashioned AI and statistical techniques) to study social / psychological phenomena. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings. I did my PhD under the mentorship of [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/) in the State University of New York at Stony Brook.  I am fortunate to be mentored by [Maarten Sap](https://maartensap.com/) and [Mona Diab](https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html) at LTI.
 
 If you have similar interests and would like to work together, please feel free to reach out! 
