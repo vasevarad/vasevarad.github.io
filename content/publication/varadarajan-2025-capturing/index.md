@@ -13,6 +13,7 @@ date: '2025-07-12'
 publishDate: '2025-12-07T21:10:24.945779Z'
 publication_types:
 - paper-conference
+url_pdf: '[https://aclanthology.org/2025.naacl-short.81.pdf](https://aclanthology.org/2025.naacl-short.81.pdf)'
 publication: '*Proceedings of the 2025 Conference of the Nations of the Americas Chapter
   of the Association for Computational Linguistics: Human Language Technologies*'
 ---
