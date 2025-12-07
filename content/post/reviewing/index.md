@@ -1,9 +1,7 @@
 ---
-title: Reviewing for *CL conferences.
-summary: Reviewed for ACL-RR over the since 2022.
+title: Reviewing for NLP and CSS conferences.
+summary: Since 2022
 date: 2025-01-01
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 authors:
   - admin
 tags:
@@ -13,6 +11,12 @@ tags:
 
 ### Reviewing Assignments
 
+- ICASSP 2026
+- ARR October 2025
+- ARR July 2025
+- ARR May 2025
+- CLPsych 2025
+- ARR February 2025
 - ARR December 2024
 - ARR October 2024
 - ARR June 2024
