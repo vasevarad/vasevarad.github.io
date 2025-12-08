@@ -19,7 +19,7 @@ publication_types:
 publication: '*Proceedings of the 9th Workshop on Computational Linguistics and Clinical
   Psychology (CLPsych 2024)*'
 
-featured: false
+featured: true
 url_pdf: https://aclanthology.org/2024.clpsych-1.28v2.pdf
 url_code: https://github.com/humanlab/clp24-arch-entropy
 url_video: https://aclanthology.org/2024.clpsych-1.28.mp4
