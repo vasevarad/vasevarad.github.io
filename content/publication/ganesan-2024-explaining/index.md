@@ -17,5 +17,7 @@ publishDate: '2025-01-19T16:33:43.532145Z'
 publication_types:
 - article-journal
 publication: '*Journal of Psychopathology and Clinical Science*'
-url_pdf: https://dx.doi.org/10.1037/abn0001144
+links:
+- name: URL
+  url: https://psycnet.apa.org/doi/10.1037/abn0001144
 ---
