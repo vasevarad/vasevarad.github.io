@@ -20,5 +20,5 @@ publication_types:
 publication: '*Journal of Psychopathology and Clinical Science*'
 links:
 - name: URL
-  url: https://psycnet.apa.org/doi/10.1037/abn0001144
+  url: "https://psycnet.apa.org/doi/10.1037/abn0001144"
 ---
