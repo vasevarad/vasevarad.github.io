@@ -1,5 +1,5 @@
 ---
-title: Explaining GPT-4's Schema of Depression Using Machine Behavior Analysis
+title: Explaining GPTs’ schema of depression: A machine behavior analysis.
 authors:
 - Adithya V Ganesan
 - Vasudha Varadarajan
@@ -16,6 +16,6 @@ date: '2024-01-01'
 publishDate: '2025-01-19T16:33:43.532145Z'
 publication_types:
 - article-journal
-publication: '*Under Review at Nature Mental Health*'
-url_pdf: https://arxiv.org/pdf/2411.13800
+publication: '*Journal of Psychopathology and Clinical Science*'
+url_pdf: [https://dx.doi.org/10.1037/abn0001144](https://dx.doi.org/10.1037/abn0001144)
 ---
