@@ -9,7 +9,7 @@ authors:
 - J Lomax Boyd
 - João Sedoc
 date: '2025-01-01'
-url_pdf: '[https://arxiv.org/pdf/2508.14344](https://arxiv.org/pdf/2508.14344)'
+url_pdf: 'https://arxiv.org/pdf/2508.14344'
 publishDate: '2025-12-07T21:10:24.977282Z'
 publication_types:
 - article-journal

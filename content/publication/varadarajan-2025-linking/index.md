@@ -13,7 +13,7 @@ authors:
 date: '2025-01-01'
 featured: True
 publishDate: '2025-12-07T21:10:24.952211Z'
-url_pdf: '[https://aclanthology.org/2025.clpsych-1.5.pdf](https://aclanthology.org/2025.clpsych-1.5.pdf)'
+url_pdf: 'https://aclanthology.org/2025.clpsych-1.5.pdf'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 10th Workshop on Computational Linguistics and Clinical
