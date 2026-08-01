@@ -1,5 +1,6 @@
 ---
-title: Explaining GPTs' schema of depression: A machine behavior analysis.
+title: 'Explaining GPTs' schema of depression: A machine behavior analysis.'
+
 authors:
 - Adithya V Ganesan
 - Vasudha Varadarajan
