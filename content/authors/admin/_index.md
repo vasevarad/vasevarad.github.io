@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc Researcher
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -204,7 +204,7 @@ awards:
 
 ---
 
+I am Vasudha Varadarajan, a Postdoctoral Research Associate at Carnegie Mellon University, working with [Maarten Sap](https://maartensap.com/) and [Mona Diab](https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html) on social intelligence, safety, and improving evaluations of AI. I earned my PhD in Computer Science from Stony Brook University, advised by  [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/) in the State University of New York at Stony Brook. My research integrates NLP and computational psychology to build AI systems that account for complex ways people think, feel, and relate. Our work has received multiple recognitions: Outstanding Paper Awards at ACL 2023, and at COLING 2025 GenAIDetect Workshop, and 2022 DARPA Forward Riser. My goal to produce AI evaluations that are valid, trustworthy, and accountable to the people they serve.
 
-I am Vasudha Varadarajan, a postdoc researcher at CMU's Language Technologies Institute working on understanding how social cognition surfaces in large language models, its impact on conversations and cultural sensitivity, and the risks associated with it, especially in downstream applications such as mental health. I am also interested in using insights from NLP and data science techniques (what we call "neo-GOFAI" - modern applications of good old-fashioned AI and statistical techniques) to study social / psychological phenomena. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings. I did my PhD under the mentorship of [H. Andrew Schwartz](https://www3.cs.stonybrook.edu/~has/) in the State University of New York at Stony Brook.  I am fortunate to be mentored by [Maarten Sap](https://maartensap.com/) and [Mona Diab](https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html) at LTI.
 
 If you have similar interests and would like to work together, please feel free to reach out! 
