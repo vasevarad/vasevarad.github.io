@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: unsplash_bluepink.jpg
+          filename: pexels-qhung999-27200282.jpg
           filters:
             brightness: 1.0
           size: cover
