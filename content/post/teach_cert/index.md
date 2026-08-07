@@ -12,4 +12,4 @@ tags:
 
 ---
 
-I mentored a high-school student from NJ on "Language of Neurodegenerative Patients and their Caregivers on Social Media"
+I mentored a high-school student from NJ on "Language of Neurodegenerative Patients on Social Media"
